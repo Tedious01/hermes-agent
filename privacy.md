@@ -4,7 +4,7 @@ Stand: November 2026
 
 ## Verantwortlicher
 
-Sascha Eder (Betreiber und einziger Nutzer von HermesAgent)
+Sascha E_der (Betreiber und einziger Nutzer von HermesAgent)
 
 ## Zweck der Anwendung
 
@@ -24,4 +24,4 @@ Die Nutzung und Übertragung von Informationen, die HermesAgent von Google-APIs 
 
 ## Kontakt
 
-E-Mail: sascha.eder@gmail.com
+E-Mail: sascha.01eder@gmail.com
