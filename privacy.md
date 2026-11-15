@@ -24,4 +24,4 @@ Die Nutzung und Übertragung von Informationen, die HermesAgent von Google-APIs 
 
 ## Kontakt
 
-E-Mail: sascha.01eder@gmail.com
+E-Mail: sascha.01e_der@gmail.com
